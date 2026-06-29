@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo D'Apolito</h1>
 <h3 align="center">Software Engineer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matt3o-dap&label=Profile%20views&color=0e75b6&style=flat" alt="matt3o-dap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteodapolito&label=Profile%20views&color=0e75b6&style=flat" alt="matteodapolito" /> </p>
 
 - 🔭 I’m currently working on [Lexroom AI](https://lexroom.ai/)
 
